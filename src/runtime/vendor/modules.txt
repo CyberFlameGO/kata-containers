@@ -338,7 +338,7 @@ go.opentelemetry.io/otel/sdk/trace
 # go.opentelemetry.io/otel/trace v1.3.0
 ## explicit
 go.opentelemetry.io/otel/trace
-# golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
+# golang.org/x/net v0.17.0
 ## explicit
 golang.org/x/net/bpf
 golang.org/x/net/context
@@ -353,16 +353,15 @@ golang.org/x/net/trace
 ## explicit
 golang.org/x/oauth2
 golang.org/x/oauth2/internal
-# golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+# golang.org/x/sync v0.1.0
 golang.org/x/sync/errgroup
-# golang.org/x/sys v0.0.0-20220204135822-1c1b9b1eba6a
+# golang.org/x/sys v0.13.0
 ## explicit
 golang.org/x/sys/execabs
-golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
 golang.org/x/sys/windows/registry
-# golang.org/x/text v0.3.7
+# golang.org/x/text v0.13.0
 golang.org/x/text/secure/bidirule
 golang.org/x/text/transform
 golang.org/x/text/unicode/bidi
